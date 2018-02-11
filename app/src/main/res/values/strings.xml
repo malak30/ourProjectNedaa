@@ -1,0 +1,54 @@
+<resources>
+
+    <!--main page for login-->
+
+    <string name="app_name">nedaa</string>
+    <string name="loginAs">تسجيل الدخول كــ:</string>
+    <string name="NewUser">مستخدم جديد</string>
+    <string name="responAuthority">جهة حكومية</string>
+    <string name="oldUser">مسجل سابق</string>
+    <string name="img1">img1</string>
+
+    <!--user register page-->
+
+    <string name="fullName">الاسم كامل</string>
+    <string name="phoneNum">رقم الجوال</string>
+    <string name="RUusername">اسم المستخدم</string>
+    <string name="RUpassword">كلمة المرور</string>
+    <string name="register">تسجيل</string>
+
+
+    <!--user login page-->
+    <string name="Uusername">اسم المستخدم</string>
+    <string name="Upassword">كلمة المرور</string>
+    <string name="Ulogin">تسجيل الدخول</string>
+    <string name="img3">img3</string>
+
+
+    <!--admin login page-->
+    <string name="Ausername">اسم المستخدم</string>
+    <string name="Apassword">كلمة المرور</string>
+    <string name="Alogin">تسجيل الدخول</string>
+    <string name="img4">img4</string>
+
+
+    <string name="img5">PS</string>
+
+    <!--button names of admin-->
+
+    <string name="publicSecurity">الامن العام</string>
+    <string name="civilDefense">الدفاع المدني</string>
+    <string name="emergForce">قوات الطوارئ</string>
+    <string name="redCrescent">الهلال الاحمر</string>
+    <string name="ECM">ادارة الطوارئ والازمات</string>
+
+    <!--images of admin-->
+
+    <string name="cd">cd</string>
+    <string name="ef">EF</string>
+    <string name="rc">RC</string>
+    <string name="ps">PS</string>
+    <string name="img2">img2</string>
+
+
+</resources>
